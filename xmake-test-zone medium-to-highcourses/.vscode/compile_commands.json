@@ -1,0 +1,21 @@
+[
+{
+  "directory": "/mnt/f/Desktop/CPP",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-o", "build/.objs/深度优先搜索-E1.1/linux/x86_64/src/深搜练习1-搜索目标.cpp.o", "src/深搜练习1-搜索目标.cpp"],
+  "file": "src/深搜练习1-搜索目标.cpp"
+},
+{
+  "directory": "/mnt/f/Desktop/CPP",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-o", "build/.objs/homework-深搜练习1-1.P/linux/x86_64/src/homework/深搜练习1-P.cpp.o", "src/homework/深搜练习1-P.cpp"],
+  "file": "src/homework/深搜练习1-P.cpp"
+},
+{
+  "directory": "/mnt/f/Desktop/CPP",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-o", "build/.objs/深度优先搜索-E1.3/linux/x86_64/src/深搜练习1-连续块个数.cpp.o", "src/深搜练习1-连续块个数.cpp"],
+  "file": "src/深搜练习1-连续块个数.cpp"
+},
+{
+  "directory": "/mnt/f/Desktop/CPP",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-o", "build/.objs/深度优先搜索-E1.2/linux/x86_64/src/深搜练习1-搜索传送门.cpp.o", "src/深搜练习1-搜索传送门.cpp"],
+  "file": "src/深搜练习1-搜索传送门.cpp"
+}]
