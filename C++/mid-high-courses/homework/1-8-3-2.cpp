@@ -21,7 +21,7 @@ int findMinArrowShots(vector<vector<int>>& points) {
             flag = points[i][1];  
         }
     }
-    return total;
+    return total; 
 }
 
 int main() {
