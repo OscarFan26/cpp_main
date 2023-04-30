@@ -207,6 +207,19 @@ bzoj2054/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/bzoj2054.dir/build.make CMakeFiles/bzoj2054.dir/build
 .PHONY : bzoj2054/fast
 
+#=============================================================================
+# Target rules for targets named jhdsr
+
+# Build rule for target.
+jhdsr: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 jhdsr
+.PHONY : jhdsr
+
+# fast build rule for target.
+jhdsr/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/jhdsr.dir/build.make CMakeFiles/jhdsr.dir/build
+.PHONY : jhdsr/fast
+
 csps/TRIE_STRUCT_word_prefix.o: csps/TRIE_STRUCT_word_prefix.cpp.o
 .PHONY : csps/TRIE_STRUCT_word_prefix.o
 
@@ -351,6 +364,30 @@ csps/并查集-弄信息传递.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/dsu-3.dir/build.make CMakeFiles/dsu-3.dir/csps/并查集-弄信息传递.cpp.s
 .PHONY : csps/并查集-弄信息传递.cpp.s
 
+csps/狡猾的商人.o: csps/狡猾的商人.cpp.o
+.PHONY : csps/狡猾的商人.o
+
+# target to build an object file
+csps/狡猾的商人.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/jhdsr.dir/build.make CMakeFiles/jhdsr.dir/csps/狡猾的商人.cpp.o
+.PHONY : csps/狡猾的商人.cpp.o
+
+csps/狡猾的商人.i: csps/狡猾的商人.cpp.i
+.PHONY : csps/狡猾的商人.i
+
+# target to preprocess a source file
+csps/狡猾的商人.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/jhdsr.dir/build.make CMakeFiles/jhdsr.dir/csps/狡猾的商人.cpp.i
+.PHONY : csps/狡猾的商人.cpp.i
+
+csps/狡猾的商人.s: csps/狡猾的商人.cpp.s
+.PHONY : csps/狡猾的商人.s
+
+# target to generate assembly for a file
+csps/狡猾的商人.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/jhdsr.dir/build.make CMakeFiles/jhdsr.dir/csps/狡猾的商人.cpp.s
+.PHONY : csps/狡猾的商人.cpp.s
+
 csps/疯狂的馒头bzoj2054.o: csps/疯狂的馒头bzoj2054.cpp.o
 .PHONY : csps/疯狂的馒头bzoj2054.o
 
@@ -389,6 +426,7 @@ help:
 	@echo "... dsu-2"
 	@echo "... dsu-3"
 	@echo "... hash-cnt-of-longest-cont-str"
+	@echo "... jhdsr"
 	@echo "... pq-min-k"
 	@echo "... csps/TRIE_STRUCT_word_prefix.o"
 	@echo "... csps/TRIE_STRUCT_word_prefix.i"
@@ -408,6 +446,9 @@ help:
 	@echo "... csps/并查集-弄信息传递.o"
 	@echo "... csps/并查集-弄信息传递.i"
 	@echo "... csps/并查集-弄信息传递.s"
+	@echo "... csps/狡猾的商人.o"
+	@echo "... csps/狡猾的商人.i"
+	@echo "... csps/狡猾的商人.s"
 	@echo "... csps/疯狂的馒头bzoj2054.o"
 	@echo "... csps/疯狂的馒头bzoj2054.i"
 	@echo "... csps/疯狂的馒头bzoj2054.s"

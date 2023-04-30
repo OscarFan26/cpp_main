@@ -151,11 +151,11 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "CXX compiler"
+					"value" : "No help, variable specified on the command line."
 				}
 			],
-			"type" : "STRING",
-			"value" : "/opt/homebrew/bin/g++-12"
+			"type" : "UNINITIALIZED",
+			"value" : "g++-12"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER_AR",
@@ -279,11 +279,11 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "C compiler"
+					"value" : "No help, variable specified on the command line."
 				}
 			],
-			"type" : "STRING",
-			"value" : "/opt/homebrew/bin/gcc-12"
+			"type" : "UNINITIALIZED",
+			"value" : "gcc-12"
 		},
 		{
 			"name" : "CMAKE_C_COMPILER_AR",

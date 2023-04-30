@@ -70,6 +70,7 @@ all: CMakeFiles/dsu-2.dir/all
 all: CMakeFiles/dsu-1.dir/all
 all: CMakeFiles/dsu-3.dir/all
 all: CMakeFiles/bzoj2054.dir/all
+all: CMakeFiles/jhdsr.dir/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
@@ -84,6 +85,7 @@ clean: CMakeFiles/dsu-2.dir/clean
 clean: CMakeFiles/dsu-1.dir/clean
 clean: CMakeFiles/dsu-3.dir/clean
 clean: CMakeFiles/bzoj2054.dir/clean
+clean: CMakeFiles/jhdsr.dir/clean
 .PHONY : clean
 
 #=============================================================================
@@ -145,7 +147,7 @@ CMakeFiles/hash-cnt-of-longest-cont-str.dir/clean:
 CMakeFiles/pq-min-k.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/pq-min-k.dir/build.make CMakeFiles/pq-min-k.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/pq-min-k.dir/build.make CMakeFiles/pq-min-k.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles --progress-num=13,14 "Built target pq-min-k"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles --progress-num=15,16 "Built target pq-min-k"
 .PHONY : CMakeFiles/pq-min-k.dir/all
 
 # Build rule for subdir invocation for target.
@@ -267,6 +269,32 @@ bzoj2054: CMakeFiles/bzoj2054.dir/rule
 CMakeFiles/bzoj2054.dir/clean:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/bzoj2054.dir/build.make CMakeFiles/bzoj2054.dir/clean
 .PHONY : CMakeFiles/bzoj2054.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/jhdsr.dir
+
+# All Build rule for target.
+CMakeFiles/jhdsr.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/jhdsr.dir/build.make CMakeFiles/jhdsr.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/jhdsr.dir/build.make CMakeFiles/jhdsr.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles --progress-num=13,14 "Built target jhdsr"
+.PHONY : CMakeFiles/jhdsr.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/jhdsr.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/jhdsr.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/jhdsr.dir/rule
+
+# Convenience name for target.
+jhdsr: CMakeFiles/jhdsr.dir/rule
+.PHONY : jhdsr
+
+# clean rule for target.
+CMakeFiles/jhdsr.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/jhdsr.dir/build.make CMakeFiles/jhdsr.dir/clean
+.PHONY : CMakeFiles/jhdsr.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.
