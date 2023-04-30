@@ -1,0 +1,8 @@
+/Users/yuchengfan/Desktop/C艹/cmake-build-debug-event-trace/CMakeFiles/TRIE_STRUCT_word_prefix.dir
+/Users/yuchengfan/Desktop/C艹/cmake-build-debug-event-trace/CMakeFiles/hash-cnt-of-longest-cont-str.dir
+/Users/yuchengfan/Desktop/C艹/cmake-build-debug-event-trace/CMakeFiles/pq-min-k.dir
+/Users/yuchengfan/Desktop/C艹/cmake-build-debug-event-trace/CMakeFiles/dsu-2.dir
+/Users/yuchengfan/Desktop/C艹/cmake-build-debug-event-trace/CMakeFiles/dsu-1.dir
+/Users/yuchengfan/Desktop/C艹/cmake-build-debug-event-trace/CMakeFiles/dsu-3.dir
+/Users/yuchengfan/Desktop/C艹/cmake-build-debug-event-trace/CMakeFiles/edit_cache.dir
+/Users/yuchengfan/Desktop/C艹/cmake-build-debug-event-trace/CMakeFiles/rebuild_cache.dir

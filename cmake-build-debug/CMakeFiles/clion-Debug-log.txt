@@ -1,0 +1,20 @@
+cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -DCMAKE_C_COMPILER=gcc-12 -DCMAKE_CXX_COMPILER=g++-12 -G Ninja -S /Users/yuchengfan/Desktop/C艹 -B /Users/yuchengfan/Desktop/C艹/cmake-build-debug
+CMake Warning at /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/Darwin-Initialize.cmake:303 (message):
+  Ignoring CMAKE_OSX_SYSROOT value:
+
+   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk
+
+  because the directory does not exist.
+Call Stack (most recent call first):
+  /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake:21 (include)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at CMakeLists.txt:14 (add_executable):
+  The target name "疯狂的馒头bzoj2054" is reserved or not valid for
+  certain CMake features, such as generator expressions, and may result in
+  undefined behavior.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles/CMakeOutput.log".

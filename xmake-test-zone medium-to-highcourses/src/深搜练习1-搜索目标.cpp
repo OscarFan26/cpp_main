@@ -1,4 +1,5 @@
 #include <bits/stdc++.h>
+
 using namespace std;
 
 // 深度优先搜索-地图
@@ -13,10 +14,10 @@ void dfs(int x, int y) {
     /**
      * @param int x: 开始搜索的x坐标
      * @param int y: 开始搜索的y坐标
-     * @description: 深度优先搜索
+     * @description 深度优先搜索
     **/
 
-    if (maps[x][y] == 2){
+    if (maps[x][y] == 2) {
         target_found = true;
         return;
     }
@@ -31,7 +32,7 @@ void dfs(int x, int y) {
             visited[nx][ny] = 0;
         }
     }
-}  
+}
 
 int main() {
     cin >> n;
@@ -56,6 +57,6 @@ int main() {
         cout << "Yes" << endl;
     else
         cout << "No" << endl;
-    
+
     return 0;
 }

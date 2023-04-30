@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CPP",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TRIE_STRUCT_word_prefix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TRIE_STRUCT_word_prefix-Debug-a2a3d44546cf974ccdc3.json",
+					"name" : "TRIE_STRUCT_word_prefix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dsu-1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dsu-1-Debug-65382ec62f449b3881a2.json",
+					"name" : "dsu-1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dsu-2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dsu-2-Debug-298d7409e1e989d3571d.json",
+					"name" : "dsu-2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dsu-3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dsu-3-Debug-8173aa939879d7e4cad1.json",
+					"name" : "dsu-3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hash-cnt-of-longest-cont-str::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hash-cnt-of-longest-cont-str-Debug-f9d39714361ef4636d5e.json",
+					"name" : "hash-cnt-of-longest-cont-str",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pq-min-k::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pq-min-k-Debug-6e3e4029117788c27163.json",
+					"name" : "pq-min-k",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/yuchengfan/Desktop/C\u8279/cmake-build-debug-event-trace",
+		"source" : "/Users/yuchengfan/Desktop/C\u8279"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
