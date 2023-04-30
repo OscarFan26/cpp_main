@@ -1,20 +1,24 @@
-cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -DCMAKE_C_COMPILER=gcc-12 -DCMAKE_CXX_COMPILER=g++-12 -G Ninja -S /Users/yuchengfan/Desktop/C艹 -B /Users/yuchengfan/Desktop/C艹/cmake-build-debug
-CMake Warning at /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/Darwin-Initialize.cmake:303 (message):
-  Ignoring CMAKE_OSX_SYSROOT value:
-
-   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk
-
-  because the directory does not exist.
-Call Stack (most recent call first):
-  /opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake:21 (include)
-  CMakeLists.txt:2 (project)
-
-
-CMake Error at CMakeLists.txt:14 (add_executable):
-  The target name "疯狂的馒头bzoj2054" is reserved or not valid for
-  certain CMake features, such as generator expressions, and may result in
-  undefined behavior.
-
-
--- Configuring incomplete, errors occurred!
-See also "/Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=gcc-12 -DCMAKE_CXX_COMPILER=g++-12 -S /Users/yuchengfan/Desktop/C艹 -B /Users/yuchengfan/Desktop/C艹/cmake-build-debug
+-- The C compiler identification is GNU 12.2.0
+-- The CXX compiler identification is GNU 12.2.0
+-- Checking whether C compiler has -isysroot
+-- Checking whether C compiler has -isysroot - yes
+-- Checking whether C compiler supports OSX deployment target flag
+-- Checking whether C compiler supports OSX deployment target flag - yes
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /opt/homebrew/bin/gcc-12 - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Checking whether CXX compiler has -isysroot
+-- Checking whether CXX compiler has -isysroot - yes
+-- Checking whether CXX compiler supports OSX deployment target flag
+-- Checking whether CXX compiler supports OSX deployment target flag - yes
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /opt/homebrew/bin/g++-12 - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/yuchengfan/Desktop/C艹/cmake-build-debug

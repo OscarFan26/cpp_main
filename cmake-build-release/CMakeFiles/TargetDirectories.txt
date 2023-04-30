@@ -4,5 +4,6 @@
 /Users/yuchengfan/Desktop/C艹/cmake-build-release/CMakeFiles/dsu-2.dir
 /Users/yuchengfan/Desktop/C艹/cmake-build-release/CMakeFiles/dsu-1.dir
 /Users/yuchengfan/Desktop/C艹/cmake-build-release/CMakeFiles/dsu-3.dir
+/Users/yuchengfan/Desktop/C艹/cmake-build-release/CMakeFiles/bzoj2054.dir
 /Users/yuchengfan/Desktop/C艹/cmake-build-release/CMakeFiles/edit_cache.dir
 /Users/yuchengfan/Desktop/C艹/cmake-build-release/CMakeFiles/rebuild_cache.dir

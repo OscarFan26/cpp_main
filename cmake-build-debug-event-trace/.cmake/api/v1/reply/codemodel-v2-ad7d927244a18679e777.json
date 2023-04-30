@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CPP",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TRIE_STRUCT_word_prefix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TRIE_STRUCT_word_prefix-Debug-b2d96dad518326906050.json",
+					"name" : "TRIE_STRUCT_word_prefix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bzoj2054::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bzoj2054-Debug-a73da5d20b2e6825c007.json",
+					"name" : "bzoj2054",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dsu-1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dsu-1-Debug-d4ee9f50b59cda33f450.json",
+					"name" : "dsu-1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dsu-2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dsu-2-Debug-fade9602157f2dfc0e40.json",
+					"name" : "dsu-2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dsu-3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dsu-3-Debug-455e6bb1eda98a9de22d.json",
+					"name" : "dsu-3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hash-cnt-of-longest-cont-str::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hash-cnt-of-longest-cont-str-Debug-4c52337b4ae069a2c443.json",
+					"name" : "hash-cnt-of-longest-cont-str",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pq-min-k::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pq-min-k-Debug-a69f52d388ae55c7ee98.json",
+					"name" : "pq-min-k",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/yuchengfan/Desktop/C\u8279/cmake-build-debug-event-trace",
+		"source" : "/Users/yuchengfan/Desktop/C\u8279"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

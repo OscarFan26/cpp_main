@@ -10,11 +10,6 @@ Call Stack (most recent call first):
   CMakeLists.txt:2 (project)
 
 
-CMake Error at CMakeLists.txt:14 (add_executable):
-  The target name "疯狂的馒头bzoj2054" is reserved or not valid for
-  certain CMake features, such as generator expressions, and may result in
-  undefined behavior.
-
-
--- Configuring incomplete, errors occurred!
-See also "/Users/yuchengfan/Desktop/C艹/cmake-build-release/CMakeFiles/CMakeOutput.log".
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/yuchengfan/Desktop/C艹/cmake-build-release

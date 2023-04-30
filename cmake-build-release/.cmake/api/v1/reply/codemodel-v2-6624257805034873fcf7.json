@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CPP",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TRIE_STRUCT_word_prefix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TRIE_STRUCT_word_prefix-Release-235c267122b1b4eb4f8f.json",
+					"name" : "TRIE_STRUCT_word_prefix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bzoj2054::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bzoj2054-Release-864bf232d93e70f773d8.json",
+					"name" : "bzoj2054",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dsu-1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dsu-1-Release-8797a55fcdc9cf9816be.json",
+					"name" : "dsu-1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dsu-2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dsu-2-Release-eff509c8f8de285d283d.json",
+					"name" : "dsu-2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dsu-3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dsu-3-Release-a0e28de179bf36bb3557.json",
+					"name" : "dsu-3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hash-cnt-of-longest-cont-str::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hash-cnt-of-longest-cont-str-Release-249244427633c41dcce3.json",
+					"name" : "hash-cnt-of-longest-cont-str",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pq-min-k::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pq-min-k-Release-a86eed187381369ea500.json",
+					"name" : "pq-min-k",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/yuchengfan/Desktop/C\u8279/cmake-build-release",
+		"source" : "/Users/yuchengfan/Desktop/C\u8279"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

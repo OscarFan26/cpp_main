@@ -51,7 +51,7 @@ build cmake_object_order_depends_target_TRIE_STRUCT_word_prefix: phony || CMakeF
 
 build CMakeFiles/TRIE_STRUCT_word_prefix.dir/csps/TRIE_STRUCT_word_prefix.cpp.o: CXX_COMPILER__TRIE_STRUCT_word_prefix_Debug /Users/yuchengfan/Desktop/C艹/csps/TRIE_STRUCT_word_prefix.cpp || cmake_object_order_depends_target_TRIE_STRUCT_word_prefix
   DEP_FILE = CMakeFiles/TRIE_STRUCT_word_prefix.dir/csps/TRIE_STRUCT_word_prefix.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -fdiagnostics-color=always -std=gnu++23
+  FLAGS = -g -arch arm64 -fdiagnostics-color=always -std=gnu++23
   OBJECT_DIR = CMakeFiles/TRIE_STRUCT_word_prefix.dir
   OBJECT_FILE_DIR = CMakeFiles/TRIE_STRUCT_word_prefix.dir/csps
 
@@ -64,7 +64,7 @@ build CMakeFiles/TRIE_STRUCT_word_prefix.dir/csps/TRIE_STRUCT_word_prefix.cpp.o:
 # Link the executable TRIE_STRUCT_word_prefix
 
 build TRIE_STRUCT_word_prefix: CXX_EXECUTABLE_LINKER__TRIE_STRUCT_word_prefix_Debug CMakeFiles/TRIE_STRUCT_word_prefix.dir/csps/TRIE_STRUCT_word_prefix.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk
+  FLAGS = -g -arch arm64
   OBJECT_DIR = CMakeFiles/TRIE_STRUCT_word_prefix.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -82,7 +82,7 @@ build cmake_object_order_depends_target_hash-cnt-of-longest-cont-str: phony || C
 
 build CMakeFiles/hash-cnt-of-longest-cont-str.dir/csps/hash-cnt-of-longest-cont-str.cpp.o: CXX_COMPILER__hash-cnt-of-longest-cont-str_Debug /Users/yuchengfan/Desktop/C艹/csps/hash-cnt-of-longest-cont-str.cpp || cmake_object_order_depends_target_hash-cnt-of-longest-cont-str
   DEP_FILE = CMakeFiles/hash-cnt-of-longest-cont-str.dir/csps/hash-cnt-of-longest-cont-str.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -fdiagnostics-color=always -std=gnu++23
+  FLAGS = -g -arch arm64 -fdiagnostics-color=always -std=gnu++23
   OBJECT_DIR = CMakeFiles/hash-cnt-of-longest-cont-str.dir
   OBJECT_FILE_DIR = CMakeFiles/hash-cnt-of-longest-cont-str.dir/csps
 
@@ -95,7 +95,7 @@ build CMakeFiles/hash-cnt-of-longest-cont-str.dir/csps/hash-cnt-of-longest-cont-
 # Link the executable hash-cnt-of-longest-cont-str
 
 build hash-cnt-of-longest-cont-str: CXX_EXECUTABLE_LINKER__hash-cnt-of-longest-cont-str_Debug CMakeFiles/hash-cnt-of-longest-cont-str.dir/csps/hash-cnt-of-longest-cont-str.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk
+  FLAGS = -g -arch arm64
   OBJECT_DIR = CMakeFiles/hash-cnt-of-longest-cont-str.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -113,7 +113,7 @@ build cmake_object_order_depends_target_pq-min-k: phony || CMakeFiles/pq-min-k.d
 
 build CMakeFiles/pq-min-k.dir/csps/优先队列-找前k小.cpp.o: CXX_COMPILER__pq-min-k_Debug /Users/yuchengfan/Desktop/C艹/csps/优先队列-找前k小.cpp || cmake_object_order_depends_target_pq-min-k
   DEP_FILE = CMakeFiles/pq-min-k.dir/csps/优先队列-找前k小.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -fdiagnostics-color=always -std=gnu++23
+  FLAGS = -g -arch arm64 -fdiagnostics-color=always -std=gnu++23
   OBJECT_DIR = CMakeFiles/pq-min-k.dir
   OBJECT_FILE_DIR = CMakeFiles/pq-min-k.dir/csps
 
@@ -126,7 +126,7 @@ build CMakeFiles/pq-min-k.dir/csps/优先队列-找前k小.cpp.o: CXX_COMPILER__
 # Link the executable pq-min-k
 
 build pq-min-k: CXX_EXECUTABLE_LINKER__pq-min-k_Debug CMakeFiles/pq-min-k.dir/csps/优先队列-找前k小.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk
+  FLAGS = -g -arch arm64
   OBJECT_DIR = CMakeFiles/pq-min-k.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -144,7 +144,7 @@ build cmake_object_order_depends_target_dsu-2: phony || CMakeFiles/dsu-2.dir
 
 build CMakeFiles/dsu-2.dir/csps/并查集-带权值-战舰命令.cpp.o: CXX_COMPILER__dsu-2_Debug /Users/yuchengfan/Desktop/C艹/csps/并查集-带权值-战舰命令.cpp || cmake_object_order_depends_target_dsu-2
   DEP_FILE = CMakeFiles/dsu-2.dir/csps/并查集-带权值-战舰命令.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -fdiagnostics-color=always -std=gnu++23
+  FLAGS = -g -arch arm64 -fdiagnostics-color=always -std=gnu++23
   OBJECT_DIR = CMakeFiles/dsu-2.dir
   OBJECT_FILE_DIR = CMakeFiles/dsu-2.dir/csps
 
@@ -157,7 +157,7 @@ build CMakeFiles/dsu-2.dir/csps/并查集-带权值-战舰命令.cpp.o: CXX_COMP
 # Link the executable dsu-2
 
 build dsu-2: CXX_EXECUTABLE_LINKER__dsu-2_Debug CMakeFiles/dsu-2.dir/csps/并查集-带权值-战舰命令.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk
+  FLAGS = -g -arch arm64
   OBJECT_DIR = CMakeFiles/dsu-2.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -175,7 +175,7 @@ build cmake_object_order_depends_target_dsu-1: phony || CMakeFiles/dsu-1.dir
 
 build CMakeFiles/dsu-1.dir/csps/并查集-信仰问题.cpp.o: CXX_COMPILER__dsu-1_Debug /Users/yuchengfan/Desktop/C艹/csps/并查集-信仰问题.cpp || cmake_object_order_depends_target_dsu-1
   DEP_FILE = CMakeFiles/dsu-1.dir/csps/并查集-信仰问题.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -fdiagnostics-color=always -std=gnu++23
+  FLAGS = -g -arch arm64 -fdiagnostics-color=always -std=gnu++23
   OBJECT_DIR = CMakeFiles/dsu-1.dir
   OBJECT_FILE_DIR = CMakeFiles/dsu-1.dir/csps
 
@@ -188,7 +188,7 @@ build CMakeFiles/dsu-1.dir/csps/并查集-信仰问题.cpp.o: CXX_COMPILER__dsu-
 # Link the executable dsu-1
 
 build dsu-1: CXX_EXECUTABLE_LINKER__dsu-1_Debug CMakeFiles/dsu-1.dir/csps/并查集-信仰问题.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk
+  FLAGS = -g -arch arm64
   OBJECT_DIR = CMakeFiles/dsu-1.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -206,7 +206,7 @@ build cmake_object_order_depends_target_dsu-3: phony || CMakeFiles/dsu-3.dir
 
 build CMakeFiles/dsu-3.dir/csps/并查集-弄信息传递.cpp.o: CXX_COMPILER__dsu-3_Debug /Users/yuchengfan/Desktop/C艹/csps/并查集-弄信息传递.cpp || cmake_object_order_depends_target_dsu-3
   DEP_FILE = CMakeFiles/dsu-3.dir/csps/并查集-弄信息传递.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -fdiagnostics-color=always -std=gnu++23
+  FLAGS = -g -arch arm64 -fdiagnostics-color=always -std=gnu++23
   OBJECT_DIR = CMakeFiles/dsu-3.dir
   OBJECT_FILE_DIR = CMakeFiles/dsu-3.dir/csps
 
@@ -219,12 +219,43 @@ build CMakeFiles/dsu-3.dir/csps/并查集-弄信息传递.cpp.o: CXX_COMPILER__d
 # Link the executable dsu-3
 
 build dsu-3: CXX_EXECUTABLE_LINKER__dsu-3_Debug CMakeFiles/dsu-3.dir/csps/并查集-弄信息传递.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk
+  FLAGS = -g -arch arm64
   OBJECT_DIR = CMakeFiles/dsu-3.dir
   POST_BUILD = :
   PRE_LINK = :
   TARGET_FILE = dsu-3
   TARGET_PDB = dsu-3.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target bzoj2054
+
+
+#############################################
+# Order-only phony target for bzoj2054
+
+build cmake_object_order_depends_target_bzoj2054: phony || CMakeFiles/bzoj2054.dir
+
+build CMakeFiles/bzoj2054.dir/csps/疯狂的馒头bzoj2054.cpp.o: CXX_COMPILER__bzoj2054_Debug /Users/yuchengfan/Desktop/C艹/csps/疯狂的馒头bzoj2054.cpp || cmake_object_order_depends_target_bzoj2054
+  DEP_FILE = CMakeFiles/bzoj2054.dir/csps/疯狂的馒头bzoj2054.cpp.o.d
+  FLAGS = -g -arch arm64 -fdiagnostics-color=always -std=gnu++23
+  OBJECT_DIR = CMakeFiles/bzoj2054.dir
+  OBJECT_FILE_DIR = CMakeFiles/bzoj2054.dir/csps
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target bzoj2054
+
+
+#############################################
+# Link the executable bzoj2054
+
+build bzoj2054: CXX_EXECUTABLE_LINKER__bzoj2054_Debug CMakeFiles/bzoj2054.dir/csps/疯狂的馒头bzoj2054.cpp.o
+  FLAGS = -g -arch arm64
+  OBJECT_DIR = CMakeFiles/bzoj2054.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = bzoj2054
+  TARGET_PDB = bzoj2054.dbg
 
 
 #############################################
@@ -261,7 +292,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/yuchengfan/Desktop/C艹/cmake-build-debug-event-trace
 
-build all: phony TRIE_STRUCT_word_prefix hash-cnt-of-longest-cont-str pq-min-k dsu-2 dsu-1 dsu-3
+build all: phony TRIE_STRUCT_word_prefix hash-cnt-of-longest-cont-str pq-min-k dsu-2 dsu-1 dsu-3 bzoj2054
 
 # =============================================================================
 # Built-in targets

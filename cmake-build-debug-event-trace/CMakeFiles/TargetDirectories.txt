@@ -4,5 +4,6 @@
 /Users/yuchengfan/Desktop/C艹/cmake-build-debug-event-trace/CMakeFiles/dsu-2.dir
 /Users/yuchengfan/Desktop/C艹/cmake-build-debug-event-trace/CMakeFiles/dsu-1.dir
 /Users/yuchengfan/Desktop/C艹/cmake-build-debug-event-trace/CMakeFiles/dsu-3.dir
+/Users/yuchengfan/Desktop/C艹/cmake-build-debug-event-trace/CMakeFiles/bzoj2054.dir
 /Users/yuchengfan/Desktop/C艹/cmake-build-debug-event-trace/CMakeFiles/edit_cache.dir
 /Users/yuchengfan/Desktop/C艹/cmake-build-debug-event-trace/CMakeFiles/rebuild_cache.dir
