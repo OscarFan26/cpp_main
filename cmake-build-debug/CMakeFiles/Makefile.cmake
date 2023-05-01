@@ -52,4 +52,5 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/dsu-3.dir/DependInfo.cmake"
   "CMakeFiles/bzoj2054.dir/DependInfo.cmake"
   "CMakeFiles/jhdsr.dir/DependInfo.cmake"
+  "CMakeFiles/gyzf.dir/DependInfo.cmake"
   )

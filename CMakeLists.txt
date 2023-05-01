@@ -13,4 +13,4 @@ add_executable(dsu-1 csps/并查集-信仰问题.cpp)
 add_executable(dsu-3 csps/并查集-弄信息传递.cpp)
 add_executable(bzoj2054 csps/疯狂的馒头bzoj2054.cpp)
 add_executable(jhdsr csps/狡猾的商人.cpp)
-
+add_executable(gyzf csps/关押罪犯.cpp)

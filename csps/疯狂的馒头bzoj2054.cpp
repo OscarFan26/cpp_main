@@ -4,7 +4,6 @@
 // 利用并查集祖先相同位同一集合的特点可以跳过已经染色的节点
 
 #include <bits/stdc++.h>
-#include <ranges>
 
 using namespace std;
 
@@ -32,8 +31,8 @@ int main() {
         paint(l, r, i);
     }
 
-    for (auto i: std::ranges::views::iota(1, n))
-//    for (int i = 1; i <= n; i++)
+//    for (auto i: std::ranges::views::iota(1, n))
+    for (int i = 1; i <= n; i++)
         cout << ans[i] << endl;
     return 0;
 }

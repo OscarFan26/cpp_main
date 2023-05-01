@@ -6,5 +6,6 @@
 /Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles/dsu-3.dir
 /Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles/bzoj2054.dir
 /Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles/jhdsr.dir
+/Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles/gyzf.dir
 /Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles/rebuild_cache.dir

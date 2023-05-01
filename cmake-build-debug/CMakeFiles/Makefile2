@@ -71,6 +71,7 @@ all: CMakeFiles/dsu-1.dir/all
 all: CMakeFiles/dsu-3.dir/all
 all: CMakeFiles/bzoj2054.dir/all
 all: CMakeFiles/jhdsr.dir/all
+all: CMakeFiles/gyzf.dir/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
@@ -86,6 +87,7 @@ clean: CMakeFiles/dsu-1.dir/clean
 clean: CMakeFiles/dsu-3.dir/clean
 clean: CMakeFiles/bzoj2054.dir/clean
 clean: CMakeFiles/jhdsr.dir/clean
+clean: CMakeFiles/gyzf.dir/clean
 .PHONY : clean
 
 #=============================================================================
@@ -121,7 +123,7 @@ CMakeFiles/TRIE_STRUCT_word_prefix.dir/clean:
 CMakeFiles/hash-cnt-of-longest-cont-str.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/hash-cnt-of-longest-cont-str.dir/build.make CMakeFiles/hash-cnt-of-longest-cont-str.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/hash-cnt-of-longest-cont-str.dir/build.make CMakeFiles/hash-cnt-of-longest-cont-str.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles --progress-num=11,12 "Built target hash-cnt-of-longest-cont-str"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles --progress-num=13,14 "Built target hash-cnt-of-longest-cont-str"
 .PHONY : CMakeFiles/hash-cnt-of-longest-cont-str.dir/all
 
 # Build rule for subdir invocation for target.
@@ -147,7 +149,7 @@ CMakeFiles/hash-cnt-of-longest-cont-str.dir/clean:
 CMakeFiles/pq-min-k.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/pq-min-k.dir/build.make CMakeFiles/pq-min-k.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/pq-min-k.dir/build.make CMakeFiles/pq-min-k.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles --progress-num=15,16 "Built target pq-min-k"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles --progress-num=17,18 "Built target pq-min-k"
 .PHONY : CMakeFiles/pq-min-k.dir/all
 
 # Build rule for subdir invocation for target.
@@ -277,7 +279,7 @@ CMakeFiles/bzoj2054.dir/clean:
 CMakeFiles/jhdsr.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/jhdsr.dir/build.make CMakeFiles/jhdsr.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/jhdsr.dir/build.make CMakeFiles/jhdsr.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles --progress-num=13,14 "Built target jhdsr"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles --progress-num=15,16 "Built target jhdsr"
 .PHONY : CMakeFiles/jhdsr.dir/all
 
 # Build rule for subdir invocation for target.
@@ -295,6 +297,32 @@ jhdsr: CMakeFiles/jhdsr.dir/rule
 CMakeFiles/jhdsr.dir/clean:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/jhdsr.dir/build.make CMakeFiles/jhdsr.dir/clean
 .PHONY : CMakeFiles/jhdsr.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/gyzf.dir
+
+# All Build rule for target.
+CMakeFiles/gyzf.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/gyzf.dir/build.make CMakeFiles/gyzf.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/gyzf.dir/build.make CMakeFiles/gyzf.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles --progress-num=11,12 "Built target gyzf"
+.PHONY : CMakeFiles/gyzf.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/gyzf.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/gyzf.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/gyzf.dir/rule
+
+# Convenience name for target.
+gyzf: CMakeFiles/gyzf.dir/rule
+.PHONY : gyzf
+
+# clean rule for target.
+CMakeFiles/gyzf.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/gyzf.dir/build.make CMakeFiles/gyzf.dir/clean
+.PHONY : CMakeFiles/gyzf.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

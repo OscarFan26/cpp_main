@@ -220,6 +220,19 @@ jhdsr/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/jhdsr.dir/build.make CMakeFiles/jhdsr.dir/build
 .PHONY : jhdsr/fast
 
+#=============================================================================
+# Target rules for targets named gyzf
+
+# Build rule for target.
+gyzf: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 gyzf
+.PHONY : gyzf
+
+# fast build rule for target.
+gyzf/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/gyzf.dir/build.make CMakeFiles/gyzf.dir/build
+.PHONY : gyzf/fast
+
 csps/TRIE_STRUCT_word_prefix.o: csps/TRIE_STRUCT_word_prefix.cpp.o
 .PHONY : csps/TRIE_STRUCT_word_prefix.o
 
@@ -291,6 +304,30 @@ csps/优先队列-找前k小.s: csps/优先队列-找前k小.cpp.s
 csps/优先队列-找前k小.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/pq-min-k.dir/build.make CMakeFiles/pq-min-k.dir/csps/优先队列-找前k小.cpp.s
 .PHONY : csps/优先队列-找前k小.cpp.s
+
+csps/关押罪犯.o: csps/关押罪犯.cpp.o
+.PHONY : csps/关押罪犯.o
+
+# target to build an object file
+csps/关押罪犯.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/gyzf.dir/build.make CMakeFiles/gyzf.dir/csps/关押罪犯.cpp.o
+.PHONY : csps/关押罪犯.cpp.o
+
+csps/关押罪犯.i: csps/关押罪犯.cpp.i
+.PHONY : csps/关押罪犯.i
+
+# target to preprocess a source file
+csps/关押罪犯.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/gyzf.dir/build.make CMakeFiles/gyzf.dir/csps/关押罪犯.cpp.i
+.PHONY : csps/关押罪犯.cpp.i
+
+csps/关押罪犯.s: csps/关押罪犯.cpp.s
+.PHONY : csps/关押罪犯.s
+
+# target to generate assembly for a file
+csps/关押罪犯.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/gyzf.dir/build.make CMakeFiles/gyzf.dir/csps/关押罪犯.cpp.s
+.PHONY : csps/关押罪犯.cpp.s
 
 csps/并查集-信仰问题.o: csps/并查集-信仰问题.cpp.o
 .PHONY : csps/并查集-信仰问题.o
@@ -425,6 +462,7 @@ help:
 	@echo "... dsu-1"
 	@echo "... dsu-2"
 	@echo "... dsu-3"
+	@echo "... gyzf"
 	@echo "... hash-cnt-of-longest-cont-str"
 	@echo "... jhdsr"
 	@echo "... pq-min-k"
@@ -437,6 +475,9 @@ help:
 	@echo "... csps/优先队列-找前k小.o"
 	@echo "... csps/优先队列-找前k小.i"
 	@echo "... csps/优先队列-找前k小.s"
+	@echo "... csps/关押罪犯.o"
+	@echo "... csps/关押罪犯.i"
+	@echo "... csps/关押罪犯.s"
 	@echo "... csps/并查集-信仰问题.o"
 	@echo "... csps/并查集-信仰问题.i"
 	@echo "... csps/并查集-信仰问题.s"

@@ -22,7 +22,8 @@
 						4,
 						5,
 						6,
-						7
+						7,
+						8
 					]
 				}
 			],
@@ -44,7 +45,8 @@
 						4,
 						5,
 						6,
-						7
+						7,
+						8
 					]
 				}
 			],
@@ -83,6 +85,13 @@
 					"id" : "dsu-3::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-dsu-3-Debug-35ad51612ec1a383389a.json",
 					"name" : "dsu-3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gyzf::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gyzf-Debug-fd241ea529b67fa9e93a.json",
+					"name" : "gyzf",
 					"projectIndex" : 0
 				},
 				{
