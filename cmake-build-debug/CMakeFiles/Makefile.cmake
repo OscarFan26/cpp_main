@@ -53,4 +53,10 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/bzoj2054.dir/DependInfo.cmake"
   "CMakeFiles/jhdsr.dir/DependInfo.cmake"
   "CMakeFiles/gyzf.dir/DependInfo.cmake"
+  "CMakeFiles/szsz2.dir/DependInfo.cmake"
+  "CMakeFiles/nxd.dir/DependInfo.cmake"
+  "CMakeFiles/ykzdxx.dir/DependInfo.cmake"
+  "CMakeFiles/dyzdl.dir/DependInfo.cmake"
+  "CMakeFiles/kruskal.dir/DependInfo.cmake"
+  "CMakeFiles/prime.dir/DependInfo.cmake"
   )

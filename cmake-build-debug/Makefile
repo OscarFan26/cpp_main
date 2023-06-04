@@ -233,6 +233,84 @@ gyzf/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/gyzf.dir/build.make CMakeFiles/gyzf.dir/build
 .PHONY : gyzf/fast
 
+#=============================================================================
+# Target rules for targets named szsz2
+
+# Build rule for target.
+szsz2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 szsz2
+.PHONY : szsz2
+
+# fast build rule for target.
+szsz2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/szsz2.dir/build.make CMakeFiles/szsz2.dir/build
+.PHONY : szsz2/fast
+
+#=============================================================================
+# Target rules for targets named nxd
+
+# Build rule for target.
+nxd: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 nxd
+.PHONY : nxd
+
+# fast build rule for target.
+nxd/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/nxd.dir/build.make CMakeFiles/nxd.dir/build
+.PHONY : nxd/fast
+
+#=============================================================================
+# Target rules for targets named ykzdxx
+
+# Build rule for target.
+ykzdxx: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ykzdxx
+.PHONY : ykzdxx
+
+# fast build rule for target.
+ykzdxx/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ykzdxx.dir/build.make CMakeFiles/ykzdxx.dir/build
+.PHONY : ykzdxx/fast
+
+#=============================================================================
+# Target rules for targets named dyzdl
+
+# Build rule for target.
+dyzdl: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 dyzdl
+.PHONY : dyzdl
+
+# fast build rule for target.
+dyzdl/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/dyzdl.dir/build.make CMakeFiles/dyzdl.dir/build
+.PHONY : dyzdl/fast
+
+#=============================================================================
+# Target rules for targets named kruskal
+
+# Build rule for target.
+kruskal: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 kruskal
+.PHONY : kruskal
+
+# fast build rule for target.
+kruskal/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kruskal.dir/build.make CMakeFiles/kruskal.dir/build
+.PHONY : kruskal/fast
+
+#=============================================================================
+# Target rules for targets named prime
+
+# Build rule for target.
+prime: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 prime
+.PHONY : prime
+
+# fast build rule for target.
+prime/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/prime.dir/build.make CMakeFiles/prime.dir/build
+.PHONY : prime/fast
+
 csps/TRIE_STRUCT_word_prefix.o: csps/TRIE_STRUCT_word_prefix.cpp.o
 .PHONY : csps/TRIE_STRUCT_word_prefix.o
 
@@ -329,6 +407,54 @@ csps/关押罪犯.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/gyzf.dir/build.make CMakeFiles/gyzf.dir/csps/关押罪犯.cpp.s
 .PHONY : csps/关押罪犯.cpp.s
 
+csps/单源最短路tmp.o: csps/单源最短路tmp.cpp.o
+.PHONY : csps/单源最短路tmp.o
+
+# target to build an object file
+csps/单源最短路tmp.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/dyzdl.dir/build.make CMakeFiles/dyzdl.dir/csps/单源最短路tmp.cpp.o
+.PHONY : csps/单源最短路tmp.cpp.o
+
+csps/单源最短路tmp.i: csps/单源最短路tmp.cpp.i
+.PHONY : csps/单源最短路tmp.i
+
+# target to preprocess a source file
+csps/单源最短路tmp.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/dyzdl.dir/build.make CMakeFiles/dyzdl.dir/csps/单源最短路tmp.cpp.i
+.PHONY : csps/单源最短路tmp.cpp.i
+
+csps/单源最短路tmp.s: csps/单源最短路tmp.cpp.s
+.PHONY : csps/单源最短路tmp.s
+
+# target to generate assembly for a file
+csps/单源最短路tmp.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/dyzdl.dir/build.make CMakeFiles/dyzdl.dir/csps/单源最短路tmp.cpp.s
+.PHONY : csps/单源最短路tmp.cpp.s
+
+csps/夜空中的星星.o: csps/夜空中的星星.cpp.o
+.PHONY : csps/夜空中的星星.o
+
+# target to build an object file
+csps/夜空中的星星.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ykzdxx.dir/build.make CMakeFiles/ykzdxx.dir/csps/夜空中的星星.cpp.o
+.PHONY : csps/夜空中的星星.cpp.o
+
+csps/夜空中的星星.i: csps/夜空中的星星.cpp.i
+.PHONY : csps/夜空中的星星.i
+
+# target to preprocess a source file
+csps/夜空中的星星.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ykzdxx.dir/build.make CMakeFiles/ykzdxx.dir/csps/夜空中的星星.cpp.i
+.PHONY : csps/夜空中的星星.cpp.i
+
+csps/夜空中的星星.s: csps/夜空中的星星.cpp.s
+.PHONY : csps/夜空中的星星.s
+
+# target to generate assembly for a file
+csps/夜空中的星星.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ykzdxx.dir/build.make CMakeFiles/ykzdxx.dir/csps/夜空中的星星.cpp.s
+.PHONY : csps/夜空中的星星.cpp.s
+
 csps/并查集-信仰问题.o: csps/并查集-信仰问题.cpp.o
 .PHONY : csps/并查集-信仰问题.o
 
@@ -401,6 +527,78 @@ csps/并查集-弄信息传递.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/dsu-3.dir/build.make CMakeFiles/dsu-3.dir/csps/并查集-弄信息传递.cpp.s
 .PHONY : csps/并查集-弄信息传递.cpp.s
 
+csps/最小生成树kruskal.o: csps/最小生成树kruskal.cpp.o
+.PHONY : csps/最小生成树kruskal.o
+
+# target to build an object file
+csps/最小生成树kruskal.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kruskal.dir/build.make CMakeFiles/kruskal.dir/csps/最小生成树kruskal.cpp.o
+.PHONY : csps/最小生成树kruskal.cpp.o
+
+csps/最小生成树kruskal.i: csps/最小生成树kruskal.cpp.i
+.PHONY : csps/最小生成树kruskal.i
+
+# target to preprocess a source file
+csps/最小生成树kruskal.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kruskal.dir/build.make CMakeFiles/kruskal.dir/csps/最小生成树kruskal.cpp.i
+.PHONY : csps/最小生成树kruskal.cpp.i
+
+csps/最小生成树kruskal.s: csps/最小生成树kruskal.cpp.s
+.PHONY : csps/最小生成树kruskal.s
+
+# target to generate assembly for a file
+csps/最小生成树kruskal.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kruskal.dir/build.make CMakeFiles/kruskal.dir/csps/最小生成树kruskal.cpp.s
+.PHONY : csps/最小生成树kruskal.cpp.s
+
+csps/最小生成树prim.o: csps/最小生成树prim.cpp.o
+.PHONY : csps/最小生成树prim.o
+
+# target to build an object file
+csps/最小生成树prim.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/prime.dir/build.make CMakeFiles/prime.dir/csps/最小生成树prim.cpp.o
+.PHONY : csps/最小生成树prim.cpp.o
+
+csps/最小生成树prim.i: csps/最小生成树prim.cpp.i
+.PHONY : csps/最小生成树prim.i
+
+# target to preprocess a source file
+csps/最小生成树prim.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/prime.dir/build.make CMakeFiles/prime.dir/csps/最小生成树prim.cpp.i
+.PHONY : csps/最小生成树prim.cpp.i
+
+csps/最小生成树prim.s: csps/最小生成树prim.cpp.s
+.PHONY : csps/最小生成树prim.s
+
+# target to generate assembly for a file
+csps/最小生成树prim.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/prime.dir/build.make CMakeFiles/prime.dir/csps/最小生成树prim.cpp.s
+.PHONY : csps/最小生成树prim.cpp.s
+
+csps/树状数组模板.o: csps/树状数组模板.cpp.o
+.PHONY : csps/树状数组模板.o
+
+# target to build an object file
+csps/树状数组模板.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/szsz2.dir/build.make CMakeFiles/szsz2.dir/csps/树状数组模板.cpp.o
+.PHONY : csps/树状数组模板.cpp.o
+
+csps/树状数组模板.i: csps/树状数组模板.cpp.i
+.PHONY : csps/树状数组模板.i
+
+# target to preprocess a source file
+csps/树状数组模板.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/szsz2.dir/build.make CMakeFiles/szsz2.dir/csps/树状数组模板.cpp.i
+.PHONY : csps/树状数组模板.cpp.i
+
+csps/树状数组模板.s: csps/树状数组模板.cpp.s
+.PHONY : csps/树状数组模板.s
+
+# target to generate assembly for a file
+csps/树状数组模板.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/szsz2.dir/build.make CMakeFiles/szsz2.dir/csps/树状数组模板.cpp.s
+.PHONY : csps/树状数组模板.cpp.s
+
 csps/狡猾的商人.o: csps/狡猾的商人.cpp.o
 .PHONY : csps/狡猾的商人.o
 
@@ -449,6 +647,30 @@ csps/疯狂的馒头bzoj2054.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/bzoj2054.dir/build.make CMakeFiles/bzoj2054.dir/csps/疯狂的馒头bzoj2054.cpp.s
 .PHONY : csps/疯狂的馒头bzoj2054.cpp.s
 
+csps/逆序对.o: csps/逆序对.cpp.o
+.PHONY : csps/逆序对.o
+
+# target to build an object file
+csps/逆序对.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/nxd.dir/build.make CMakeFiles/nxd.dir/csps/逆序对.cpp.o
+.PHONY : csps/逆序对.cpp.o
+
+csps/逆序对.i: csps/逆序对.cpp.i
+.PHONY : csps/逆序对.i
+
+# target to preprocess a source file
+csps/逆序对.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/nxd.dir/build.make CMakeFiles/nxd.dir/csps/逆序对.cpp.i
+.PHONY : csps/逆序对.cpp.i
+
+csps/逆序对.s: csps/逆序对.cpp.s
+.PHONY : csps/逆序对.s
+
+# target to generate assembly for a file
+csps/逆序对.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/nxd.dir/build.make CMakeFiles/nxd.dir/csps/逆序对.cpp.s
+.PHONY : csps/逆序对.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -462,10 +684,16 @@ help:
 	@echo "... dsu-1"
 	@echo "... dsu-2"
 	@echo "... dsu-3"
+	@echo "... dyzdl"
 	@echo "... gyzf"
 	@echo "... hash-cnt-of-longest-cont-str"
 	@echo "... jhdsr"
+	@echo "... kruskal"
+	@echo "... nxd"
 	@echo "... pq-min-k"
+	@echo "... prime"
+	@echo "... szsz2"
+	@echo "... ykzdxx"
 	@echo "... csps/TRIE_STRUCT_word_prefix.o"
 	@echo "... csps/TRIE_STRUCT_word_prefix.i"
 	@echo "... csps/TRIE_STRUCT_word_prefix.s"
@@ -478,6 +706,12 @@ help:
 	@echo "... csps/关押罪犯.o"
 	@echo "... csps/关押罪犯.i"
 	@echo "... csps/关押罪犯.s"
+	@echo "... csps/单源最短路tmp.o"
+	@echo "... csps/单源最短路tmp.i"
+	@echo "... csps/单源最短路tmp.s"
+	@echo "... csps/夜空中的星星.o"
+	@echo "... csps/夜空中的星星.i"
+	@echo "... csps/夜空中的星星.s"
 	@echo "... csps/并查集-信仰问题.o"
 	@echo "... csps/并查集-信仰问题.i"
 	@echo "... csps/并查集-信仰问题.s"
@@ -487,12 +721,24 @@ help:
 	@echo "... csps/并查集-弄信息传递.o"
 	@echo "... csps/并查集-弄信息传递.i"
 	@echo "... csps/并查集-弄信息传递.s"
+	@echo "... csps/最小生成树kruskal.o"
+	@echo "... csps/最小生成树kruskal.i"
+	@echo "... csps/最小生成树kruskal.s"
+	@echo "... csps/最小生成树prim.o"
+	@echo "... csps/最小生成树prim.i"
+	@echo "... csps/最小生成树prim.s"
+	@echo "... csps/树状数组模板.o"
+	@echo "... csps/树状数组模板.i"
+	@echo "... csps/树状数组模板.s"
 	@echo "... csps/狡猾的商人.o"
 	@echo "... csps/狡猾的商人.i"
 	@echo "... csps/狡猾的商人.s"
 	@echo "... csps/疯狂的馒头bzoj2054.o"
 	@echo "... csps/疯狂的馒头bzoj2054.i"
 	@echo "... csps/疯狂的馒头bzoj2054.s"
+	@echo "... csps/逆序对.o"
+	@echo "... csps/逆序对.i"
+	@echo "... csps/逆序对.s"
 .PHONY : help
 
 

@@ -7,5 +7,11 @@
 /Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles/bzoj2054.dir
 /Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles/jhdsr.dir
 /Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles/gyzf.dir
+/Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles/szsz2.dir
+/Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles/nxd.dir
+/Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles/ykzdxx.dir
+/Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles/dyzdl.dir
+/Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles/kruskal.dir
+/Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles/prime.dir
 /Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles/rebuild_cache.dir

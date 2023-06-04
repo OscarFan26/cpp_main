@@ -1,0 +1,186 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CPP",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TRIE_STRUCT_word_prefix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TRIE_STRUCT_word_prefix-Debug-39c1af1d55d1b26e644d.json",
+					"name" : "TRIE_STRUCT_word_prefix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bzoj2054::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bzoj2054-Debug-ce0da677d64a594c01aa.json",
+					"name" : "bzoj2054",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dsu-1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dsu-1-Debug-6e2625e535f133114e69.json",
+					"name" : "dsu-1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dsu-2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dsu-2-Debug-b5cb72da1808477c9416.json",
+					"name" : "dsu-2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dsu-3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dsu-3-Debug-35ad51612ec1a383389a.json",
+					"name" : "dsu-3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dyzdl::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dyzdl-Debug-cf7f9e4256b79db83727.json",
+					"name" : "dyzdl",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gyzf::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gyzf-Debug-fd241ea529b67fa9e93a.json",
+					"name" : "gyzf",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hash-cnt-of-longest-cont-str::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hash-cnt-of-longest-cont-str-Debug-ceeb5bda01a34d1ea474.json",
+					"name" : "hash-cnt-of-longest-cont-str",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "jhdsr::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-jhdsr-Debug-286b7a9f57d8fa132285.json",
+					"name" : "jhdsr",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kruskal::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kruskal-Debug-6d5817242aa96355063b.json",
+					"name" : "kruskal",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nxd::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nxd-Debug-6b8f114142ceb1f8ce52.json",
+					"name" : "nxd",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pq-min-k::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pq-min-k-Debug-f5538ed22c38e10cb203.json",
+					"name" : "pq-min-k",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "prime::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-prime-Debug-3f58b5a9c7ddcb77d0cd.json",
+					"name" : "prime",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "szsz2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-szsz2-Debug-c301f441d38b83d64ca0.json",
+					"name" : "szsz2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ykzdxx::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ykzdxx-Debug-8f1ef09b9e99ef6ad204.json",
+					"name" : "ykzdxx",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/yuchengfan/Desktop/C\u8279/cmake-build-debug",
+		"source" : "/Users/yuchengfan/Desktop/C\u8279"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

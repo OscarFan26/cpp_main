@@ -72,6 +72,12 @@ all: CMakeFiles/dsu-3.dir/all
 all: CMakeFiles/bzoj2054.dir/all
 all: CMakeFiles/jhdsr.dir/all
 all: CMakeFiles/gyzf.dir/all
+all: CMakeFiles/szsz2.dir/all
+all: CMakeFiles/nxd.dir/all
+all: CMakeFiles/ykzdxx.dir/all
+all: CMakeFiles/dyzdl.dir/all
+all: CMakeFiles/kruskal.dir/all
+all: CMakeFiles/prime.dir/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
@@ -88,6 +94,12 @@ clean: CMakeFiles/dsu-3.dir/clean
 clean: CMakeFiles/bzoj2054.dir/clean
 clean: CMakeFiles/jhdsr.dir/clean
 clean: CMakeFiles/gyzf.dir/clean
+clean: CMakeFiles/szsz2.dir/clean
+clean: CMakeFiles/nxd.dir/clean
+clean: CMakeFiles/ykzdxx.dir/clean
+clean: CMakeFiles/dyzdl.dir/clean
+clean: CMakeFiles/kruskal.dir/clean
+clean: CMakeFiles/prime.dir/clean
 .PHONY : clean
 
 #=============================================================================
@@ -123,7 +135,7 @@ CMakeFiles/TRIE_STRUCT_word_prefix.dir/clean:
 CMakeFiles/hash-cnt-of-longest-cont-str.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/hash-cnt-of-longest-cont-str.dir/build.make CMakeFiles/hash-cnt-of-longest-cont-str.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/hash-cnt-of-longest-cont-str.dir/build.make CMakeFiles/hash-cnt-of-longest-cont-str.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles --progress-num=13,14 "Built target hash-cnt-of-longest-cont-str"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles --progress-num=15,16 "Built target hash-cnt-of-longest-cont-str"
 .PHONY : CMakeFiles/hash-cnt-of-longest-cont-str.dir/all
 
 # Build rule for subdir invocation for target.
@@ -149,7 +161,7 @@ CMakeFiles/hash-cnt-of-longest-cont-str.dir/clean:
 CMakeFiles/pq-min-k.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/pq-min-k.dir/build.make CMakeFiles/pq-min-k.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/pq-min-k.dir/build.make CMakeFiles/pq-min-k.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles --progress-num=17,18 "Built target pq-min-k"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles --progress-num=23,24 "Built target pq-min-k"
 .PHONY : CMakeFiles/pq-min-k.dir/all
 
 # Build rule for subdir invocation for target.
@@ -279,7 +291,7 @@ CMakeFiles/bzoj2054.dir/clean:
 CMakeFiles/jhdsr.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/jhdsr.dir/build.make CMakeFiles/jhdsr.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/jhdsr.dir/build.make CMakeFiles/jhdsr.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles --progress-num=15,16 "Built target jhdsr"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles --progress-num=17,18 "Built target jhdsr"
 .PHONY : CMakeFiles/jhdsr.dir/all
 
 # Build rule for subdir invocation for target.
@@ -305,7 +317,7 @@ CMakeFiles/jhdsr.dir/clean:
 CMakeFiles/gyzf.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/gyzf.dir/build.make CMakeFiles/gyzf.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/gyzf.dir/build.make CMakeFiles/gyzf.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles --progress-num=11,12 "Built target gyzf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles --progress-num=13,14 "Built target gyzf"
 .PHONY : CMakeFiles/gyzf.dir/all
 
 # Build rule for subdir invocation for target.
@@ -323,6 +335,162 @@ gyzf: CMakeFiles/gyzf.dir/rule
 CMakeFiles/gyzf.dir/clean:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/gyzf.dir/build.make CMakeFiles/gyzf.dir/clean
 .PHONY : CMakeFiles/gyzf.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/szsz2.dir
+
+# All Build rule for target.
+CMakeFiles/szsz2.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/szsz2.dir/build.make CMakeFiles/szsz2.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/szsz2.dir/build.make CMakeFiles/szsz2.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles --progress-num=27,28 "Built target szsz2"
+.PHONY : CMakeFiles/szsz2.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/szsz2.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/szsz2.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/szsz2.dir/rule
+
+# Convenience name for target.
+szsz2: CMakeFiles/szsz2.dir/rule
+.PHONY : szsz2
+
+# clean rule for target.
+CMakeFiles/szsz2.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/szsz2.dir/build.make CMakeFiles/szsz2.dir/clean
+.PHONY : CMakeFiles/szsz2.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/nxd.dir
+
+# All Build rule for target.
+CMakeFiles/nxd.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/nxd.dir/build.make CMakeFiles/nxd.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/nxd.dir/build.make CMakeFiles/nxd.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles --progress-num=21,22 "Built target nxd"
+.PHONY : CMakeFiles/nxd.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/nxd.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/nxd.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/nxd.dir/rule
+
+# Convenience name for target.
+nxd: CMakeFiles/nxd.dir/rule
+.PHONY : nxd
+
+# clean rule for target.
+CMakeFiles/nxd.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/nxd.dir/build.make CMakeFiles/nxd.dir/clean
+.PHONY : CMakeFiles/nxd.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/ykzdxx.dir
+
+# All Build rule for target.
+CMakeFiles/ykzdxx.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ykzdxx.dir/build.make CMakeFiles/ykzdxx.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ykzdxx.dir/build.make CMakeFiles/ykzdxx.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles --progress-num=29,30 "Built target ykzdxx"
+.PHONY : CMakeFiles/ykzdxx.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/ykzdxx.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/ykzdxx.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/ykzdxx.dir/rule
+
+# Convenience name for target.
+ykzdxx: CMakeFiles/ykzdxx.dir/rule
+.PHONY : ykzdxx
+
+# clean rule for target.
+CMakeFiles/ykzdxx.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ykzdxx.dir/build.make CMakeFiles/ykzdxx.dir/clean
+.PHONY : CMakeFiles/ykzdxx.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/dyzdl.dir
+
+# All Build rule for target.
+CMakeFiles/dyzdl.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/dyzdl.dir/build.make CMakeFiles/dyzdl.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/dyzdl.dir/build.make CMakeFiles/dyzdl.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles --progress-num=11,12 "Built target dyzdl"
+.PHONY : CMakeFiles/dyzdl.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/dyzdl.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/dyzdl.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/dyzdl.dir/rule
+
+# Convenience name for target.
+dyzdl: CMakeFiles/dyzdl.dir/rule
+.PHONY : dyzdl
+
+# clean rule for target.
+CMakeFiles/dyzdl.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/dyzdl.dir/build.make CMakeFiles/dyzdl.dir/clean
+.PHONY : CMakeFiles/dyzdl.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/kruskal.dir
+
+# All Build rule for target.
+CMakeFiles/kruskal.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kruskal.dir/build.make CMakeFiles/kruskal.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kruskal.dir/build.make CMakeFiles/kruskal.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles --progress-num=19,20 "Built target kruskal"
+.PHONY : CMakeFiles/kruskal.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/kruskal.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/kruskal.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/kruskal.dir/rule
+
+# Convenience name for target.
+kruskal: CMakeFiles/kruskal.dir/rule
+.PHONY : kruskal
+
+# clean rule for target.
+CMakeFiles/kruskal.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/kruskal.dir/build.make CMakeFiles/kruskal.dir/clean
+.PHONY : CMakeFiles/kruskal.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/prime.dir
+
+# All Build rule for target.
+CMakeFiles/prime.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/prime.dir/build.make CMakeFiles/prime.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/prime.dir/build.make CMakeFiles/prime.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles --progress-num=25,26 "Built target prime"
+.PHONY : CMakeFiles/prime.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/prime.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/prime.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yuchengfan/Desktop/C艹/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/prime.dir/rule
+
+# Convenience name for target.
+prime: CMakeFiles/prime.dir/rule
+.PHONY : prime
+
+# clean rule for target.
+CMakeFiles/prime.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/prime.dir/build.make CMakeFiles/prime.dir/clean
+.PHONY : CMakeFiles/prime.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.
