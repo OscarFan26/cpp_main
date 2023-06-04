@@ -40,7 +40,7 @@ int main() {
         cin >> u >> v >> w;
         g[u][v] = g[v][u] = w;
     }
-    for (int i = 1; i <= n; i++) ) g[i][i] = 0;
+    for (int i = 1; i <= n; i++) g[i][i] = 0;
     prim();
     cout << ans << endl;
     return 0;
