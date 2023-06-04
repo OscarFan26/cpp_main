@@ -3,7 +3,7 @@
 // NAME:  狡猾的商人.cpp
 
 #include <bits/stdc++.h>
-//#include <ranges>
+// #include <ranges>
 
 using namespace std;
 
@@ -43,7 +43,7 @@ int main() {
         int flag = 1;
         memset(d, 0, sizeof(d));
         for (int i = 0; i <= n; i++)
-//        for (auto i: views::iota(0, n))
+    //    for (auto i: views::iota(0, n))
             fa[i] = i;
         int s, t, v;
         for (int _ = 1; _ <= m; _++) {

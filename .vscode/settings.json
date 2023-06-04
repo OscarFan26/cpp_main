@@ -1,3 +1,12 @@
 {
-    "C_Cpp.errorSquiggles": "Enabled"
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "iostream": "cpp",
+        "algorithm": "cpp",
+        "span": "cpp",
+        "type_traits": "cpp",
+        "iomanip": "cpp",
+        "ostream": "cpp",
+        "ranges": "cpp"
+    }
 }
