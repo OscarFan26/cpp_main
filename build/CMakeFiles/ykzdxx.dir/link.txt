@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/ykzdxx.dir/csps/夜空中的星星.cpp.o -o ykzdxx 

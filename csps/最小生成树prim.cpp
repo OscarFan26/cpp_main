@@ -3,7 +3,8 @@
 // TIME:  2023/6/4 17:45:03
 // NAME:  最小生成树prime.cpp
 
-#include <bits/stdc++.h>
+#include <iostream>
+#include <cstring>
 
 using namespace std;
 

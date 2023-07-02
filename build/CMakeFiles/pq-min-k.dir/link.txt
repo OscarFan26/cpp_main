@@ -1,0 +1,1 @@
+/usr/bin/g++ -g "CMakeFiles/pq-min-k.dir/csps/优先队列-找前k小.cpp.o" -o pq-min-k 

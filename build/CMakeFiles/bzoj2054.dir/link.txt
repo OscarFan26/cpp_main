@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/bzoj2054.dir/csps/疯狂的馒头bzoj2054.cpp.o -o bzoj2054 

@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/jhdsr.dir/csps/狡猾的商人.cpp.o -o jhdsr 
