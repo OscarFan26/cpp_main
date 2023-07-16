@@ -23,4 +23,5 @@ int main() {
     }
     cout << (ans == n + 1 ? -1 : ans);
     return 0;
+    
 }
