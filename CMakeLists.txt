@@ -22,3 +22,5 @@ add_executable(ykzdxx csps/夜空中的星星.cpp)
 add_executable(dyzdl csps/单源最短路tmp.cpp)
 add_executable(kruskal csps/最小生成树kruskal.cpp)
 add_executable(prime csps/最小生成树prim.cpp)
+
+add_executable(bdcf csps/边的查分.cpp)

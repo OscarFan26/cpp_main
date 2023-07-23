@@ -311,6 +311,19 @@ prime/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/prime.dir/build.make CMakeFiles/prime.dir/build
 .PHONY : prime/fast
 
+#=============================================================================
+# Target rules for targets named bdcf
+
+# Build rule for target.
+bdcf: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 bdcf
+.PHONY : bdcf
+
+# fast build rule for target.
+bdcf/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/bdcf.dir/build.make CMakeFiles/bdcf.dir/build
+.PHONY : bdcf/fast
+
 csps/TRIE_STRUCT_word_prefix.o: csps/TRIE_STRUCT_word_prefix.cpp.o
 .PHONY : csps/TRIE_STRUCT_word_prefix.o
 
@@ -647,6 +660,30 @@ csps/疯狂的馒头bzoj2054.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/bzoj2054.dir/build.make CMakeFiles/bzoj2054.dir/csps/疯狂的馒头bzoj2054.cpp.s
 .PHONY : csps/疯狂的馒头bzoj2054.cpp.s
 
+csps/边的查分.o: csps/边的查分.cpp.o
+.PHONY : csps/边的查分.o
+
+# target to build an object file
+csps/边的查分.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/bdcf.dir/build.make CMakeFiles/bdcf.dir/csps/边的查分.cpp.o
+.PHONY : csps/边的查分.cpp.o
+
+csps/边的查分.i: csps/边的查分.cpp.i
+.PHONY : csps/边的查分.i
+
+# target to preprocess a source file
+csps/边的查分.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/bdcf.dir/build.make CMakeFiles/bdcf.dir/csps/边的查分.cpp.i
+.PHONY : csps/边的查分.cpp.i
+
+csps/边的查分.s: csps/边的查分.cpp.s
+.PHONY : csps/边的查分.s
+
+# target to generate assembly for a file
+csps/边的查分.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/bdcf.dir/build.make CMakeFiles/bdcf.dir/csps/边的查分.cpp.s
+.PHONY : csps/边的查分.cpp.s
+
 csps/逆序对.o: csps/逆序对.cpp.o
 .PHONY : csps/逆序对.o
 
@@ -680,6 +717,7 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... TRIE_STRUCT_word_prefix"
+	@echo "... bdcf"
 	@echo "... bzoj2054"
 	@echo "... dsu-1"
 	@echo "... dsu-2"
@@ -736,6 +774,9 @@ help:
 	@echo "... csps/疯狂的馒头bzoj2054.o"
 	@echo "... csps/疯狂的馒头bzoj2054.i"
 	@echo "... csps/疯狂的馒头bzoj2054.s"
+	@echo "... csps/边的查分.o"
+	@echo "... csps/边的查分.i"
+	@echo "... csps/边的查分.s"
 	@echo "... csps/逆序对.o"
 	@echo "... csps/逆序对.i"
 	@echo "... csps/逆序对.s"

@@ -59,4 +59,5 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/dyzdl.dir/DependInfo.cmake"
   "CMakeFiles/kruskal.dir/DependInfo.cmake"
   "CMakeFiles/prime.dir/DependInfo.cmake"
+  "CMakeFiles/bdcf.dir/DependInfo.cmake"
   )

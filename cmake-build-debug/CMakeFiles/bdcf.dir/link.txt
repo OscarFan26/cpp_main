@@ -1,0 +1,1 @@
+/opt/homebrew/bin/g++-12 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/bdcf.dir/csps/边的查分.cpp.o -o bdcf 
