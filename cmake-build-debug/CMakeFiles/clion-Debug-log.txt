@@ -1,4 +1,0 @@
-cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=gcc-12 -DCMAKE_CXX_COMPILER=g++-12 -S /Users/yuchengfan/Desktop/C艹 -B /Users/yuchengfan/Desktop/C艹/cmake-build-debug
--- Configuring done
--- Generating done
--- Build files have been written to: /Users/yuchengfan/Desktop/C艹/cmake-build-debug

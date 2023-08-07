@@ -1,1 +1,0 @@
-/opt/homebrew/bin/g++-12 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/dsu-3.dir/csps/并查集-弄信息传递.cpp.o" -o dsu-3 

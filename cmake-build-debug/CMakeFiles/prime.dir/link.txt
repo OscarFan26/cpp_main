@@ -1,1 +1,0 @@
-/opt/homebrew/bin/g++-12 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/prime.dir/csps/最小生成树prim.cpp.o -o prime 
