@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/szhf.dir/csps/数字划分.cpp.o -o szhf 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/eee.dir/额.cpp.o -o eee 

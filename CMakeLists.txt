@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.25)
 project(CPP)
 
-set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_CXX_STANDARD 23)
 
 
 add_executable(TRIE_STRUCT_word_prefix csps/TRIE_STRUCT_word_prefix.cpp)
@@ -18,9 +18,11 @@ add_executable(gyzf csps/关押罪犯.cpp)
 add_executable(szsz2 csps/树状数组模板.cpp)
 add_executable(nxd csps/逆序对.cpp)
 add_executable(ykzdxx csps/夜空中的星星.cpp)
-
+add_executable(zdzfx csps/最大正方形.cpp)
 add_executable(dyzdl csps/单源最短路tmp.cpp)
 add_executable(kruskal csps/最小生成树kruskal.cpp)
 add_executable(prime csps/最小生成树prim.cpp)
 add_executable(lingyibeibao csps/dp零一背包.cpp)
 add_executable(bdcf csps/边的查分.cpp)
+add_executable(sxdpdnqk        csps/树形dp_电脑情况.cpp)
+add_executable(szhf csps/数字划分.cpp)

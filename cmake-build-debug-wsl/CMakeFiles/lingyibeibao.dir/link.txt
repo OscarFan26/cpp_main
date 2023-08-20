@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/lingyibeibao.dir/csps/dp零一背包.cpp.o -o lingyibeibao 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/kruskal.dir/csps/最小生成树kruskal.cpp.o -o kruskal 
