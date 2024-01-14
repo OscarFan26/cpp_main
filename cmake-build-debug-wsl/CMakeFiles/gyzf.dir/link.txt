@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/gyzf.dir/csps/关押罪犯.cpp.o -o gyzf 

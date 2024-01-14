@@ -1,0 +1,23 @@
+{
+  "DevContainersInfoBarHidden": true,
+  "ActiveTargetSystem": "本地计算机",
+  "OutputFoldersPerTargetSystem": {
+    "本地计算机": [
+      "out\\build\\WSL-Clang-Debug",
+      "out\\install\\WSL-Clang-Debug",
+      "out\\build\\x64-Debug",
+      "out\\install\\x64-Debug"
+    ],
+    "WSL: kali-linux": [
+      "out\\build\\WSL-Clang-Debug",
+      "out\\install\\WSL-Clang-Debug",
+      "out\\build\\x64-Debug",
+      "out\\install\\x64-Debug"
+    ]
+  },
+  "ExpandedNodes": [
+    ""
+  ],
+  "SelectedNode": "\\CMakeLists.txt",
+  "PreviewInSolutionExplorer": false
+}

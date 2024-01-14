@@ -1,1 +1,0 @@
-/usr/bin/c++ -g "CMakeFiles/dsu-2.dir/csps/并查集-带权值-战舰命令.cpp.o" -o dsu-2 

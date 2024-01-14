@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/sxdpdnqk.dir/csps/树形dp_电脑情况.cpp.o -o sxdpdnqk 

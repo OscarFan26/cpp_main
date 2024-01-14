@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/zdzfx.dir/csps/最大正方形.cpp.o -o zdzfx 

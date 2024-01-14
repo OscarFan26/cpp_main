@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/bdcf.dir/csps/边的查分.cpp.o -o bdcf 

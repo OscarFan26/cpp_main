@@ -1,1 +1,0 @@
-/usr/bin/c++ -g "CMakeFiles/dsu-3.dir/csps/并查集-弄信息传递.cpp.o" -o dsu-3 
