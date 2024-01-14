@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/TRIE_STRUCT_word_prefix.dir/csps/TRIE_STRUCT_word_prefix.cpp.o -o TRIE_STRUCT_word_prefix 

@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/nxd.dir/csps/逆序对.cpp.o -o nxd 

@@ -1,1 +1,0 @@
-/usr/bin/g++ -g "CMakeFiles/dsu-1.dir/csps/并查集-信仰问题.cpp.o" -o dsu-1 

@@ -1,1 +1,0 @@
-/usr/bin/g++ -g "CMakeFiles/hash-cnt-of-longest-cont-str.dir/csps/hash-cnt-of-longest-cont-str.cpp.o" -o hash-cnt-of-longest-cont-str 

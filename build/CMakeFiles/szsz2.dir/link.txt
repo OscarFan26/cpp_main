@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/szsz2.dir/csps/树状数组模板.cpp.o -o szsz2 
