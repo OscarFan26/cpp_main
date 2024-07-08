@@ -1,1 +1,1 @@
-/usr/bin/c++ -g CMakeFiles/new_target1.dir/test.cpp.o -o new_target1 
+/usr/bin/g++ -g CMakeFiles/new_target1.dir/test.cpp.o -o new_target1 

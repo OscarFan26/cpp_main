@@ -1,7 +1,0 @@
-.vscode
-.idea
-/c_plus_plus/cmake-build-debug
-/c_plus_plus/.idea
-/c_plus_plus/.vscode
-/c_plus_plus/*.exe
-/c_plus_plus/*.txt

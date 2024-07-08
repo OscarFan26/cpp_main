@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.27)
 project(CPP)
 
-set(CMAKE_CXX_STANDARD 23)
+set(CMAKE_CXX_STANDARD 26)
 
 #add_executable(_test test.cpp)
 #add_executable(TRIE_STRUCT_word_prefix csps/TRIE_STRUCT_word_prefix.cpp)
@@ -26,5 +26,5 @@ set(CMAKE_CXX_STANDARD 23)
 #add_executable(bdcf csps/边的查分.cpp)
 #add_executable(sxdpdnqk        csps/树形dp_电脑情况.cpp)
 #add_executable(szhf csps/数字划分.cpp)
-add_executable(new_target csps/st区间最值查询.cpp)
-add_executable(new_target1 test.cpp)
+#add_executable(new_target csps/st区间最值查询.cpp)
+#add_executable(new_target1 test.cpp)

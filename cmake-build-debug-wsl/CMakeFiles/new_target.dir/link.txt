@@ -1,1 +1,1 @@
-/usr/bin/c++ -g CMakeFiles/new_target.dir/csps/st区间最值查询.cpp.o -o new_target 
+/usr/bin/g++ -g CMakeFiles/new_target.dir/csps/st区间最值查询.cpp.o -o new_target 
