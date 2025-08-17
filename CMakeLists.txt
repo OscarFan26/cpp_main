@@ -3,6 +3,7 @@ project(CPP)
 
 set(CMAKE_CXX_STANDARD 26)
 
+#CXXFLAGS = filter-out -D_GLIBCXX_DEBUG,$(CXXFLAGS)) -O2
 #add_executable(_test test.cpp)
 #add_executable(TRIE_STRUCT_word_prefix csps/TRIE_STRUCT_word_prefix.cpp)
 #add_executable(hash-cnt-of-longest-cont-str csps/hash-cnt-of-longest-cont-str.cpp)
