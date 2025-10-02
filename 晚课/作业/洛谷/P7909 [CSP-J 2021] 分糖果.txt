@@ -1,0 +1,17 @@
+#include <bits/stdc++.h>
+using namespace std;
+// 5 14 18
+// 4 0 1 2 3
+int main() {
+    int n, l, r;
+    cin >> n >> l >> r;
+    if (l+n-l%n > r) cout << r % n;
+    else cout << n - 1;
+    // if (r - l >= n) cout << n-1;
+    // else {
+        // int point = l+n-l%n; 
+        // if (point > r) cout << r%n;
+        // else cout << (point-1)%n; 
+    // }
+    return 0;
+}
