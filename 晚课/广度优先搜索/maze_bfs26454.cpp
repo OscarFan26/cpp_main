@@ -2,7 +2,7 @@
 using namespace std;
 
 const int maxn = 1001;
-int w, h;
+int n, m;
 int sx, sy, fx, fy;
 bool mmap[maxn][maxn];
 bool visited[maxn][maxn];
@@ -21,11 +21,11 @@ bool bfs() {
 		q.pop();
 		for (int i = 0; i < 4; i++) {
 			int x = p.first + dx[i], y = p.second + dy[i];
-			if (x > w || y > h || x < 1 || y < 1 || visited[x][y] || !mmap[x][y]) continue;
+			if (x > n || y > m || x < 1 || y < 1 || visited[x][y] || !mmap[x][y]) continue;
 			visited[x][y] = true;
 			pre[x][y] = p;
 			q.push({x, y});
-			if (x == fx && y == fy)
+			if (x == fx && y == fy) 
 				return true;
 		}
 	}
@@ -39,9 +39,9 @@ void print(int x, int y) {
 }
 
 int main() {
-	cin >> w >> h;
-	for (int i = 1; i <= w; i++)
-		for (int j = 1; j <= h; j++) {
+	cin >> n >> m;
+	for (int i = 1; i <= n; i++)
+		for (int j = 1; j <= m; j++) {
 			int x;
 			cin >> x;
 			if (x == 0) mmap[i][j] = true;

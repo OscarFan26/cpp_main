@@ -32,12 +32,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/mnt/c/Users/fzr_o/Desktop/C\u8279/cmake-build-debug",
-		"source" : "/mnt/c/Users/fzr_o/Desktop/C\u8279"
+		"build" : "/Users/oscarfan/Desktop/C\u8279/cmake-build-debug",
+		"source" : "/Users/oscarfan/Desktop/C\u8279"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 7
+		"minor" : 8
 	}
 }

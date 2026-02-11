@@ -1,4 +1,4 @@
-/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=gcc-14 -DCMAKE_CXX_COMPILER=g++-14 -S /mnt/c/Users/fzr_o/Desktop/C艹 -B /mnt/c/Users/fzr_o/Desktop/C艹/cmake-build-debug
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=gcc -DCMAKE_CXX_COMPILER=g++ -S /Users/oscarfan/Desktop/C艹 -B /Users/oscarfan/Desktop/C艹/cmake-build-debug
 -- Configuring done (0.1s)
--- Generating done (1.0s)
--- Build files have been written to: /mnt/c/Users/fzr_o/Desktop/C艹/cmake-build-debug
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/oscarfan/Desktop/C艹/cmake-build-debug

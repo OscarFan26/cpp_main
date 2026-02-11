@@ -18,7 +18,7 @@ void dijkstra() {
 	}
 }
 
-int main() 
+int main() {
 	memset(arr, 0x3f3f3f3f, sizeof arr);
 	for (int i = 1; i <= n; i++) for (int j = 1; j <= n; j++) arr[i][j] = 0;
 	cin >> n >> m >> s;
